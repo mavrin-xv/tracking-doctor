@@ -1,0 +1,8 @@
+{
+  "api_key": "phc_example_public_key",
+  "batch": [
+    {"event": "order_completed", "distinct_id": "anon-555", "uuid": "0192f0a0-0000-7000-8000-000000001042",
+     "timestamp": "2026-11-14T10:21:00Z", "properties": {"order_id": "FT1042", "value": 38.5, "currency": "EUR"}},
+    {"event": "order_refunded", "properties": {"order_id": "FT1039"}, "timestamp": "14/11/2026 10:30"}
+  ]
+}

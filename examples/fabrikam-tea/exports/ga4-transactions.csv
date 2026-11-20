@@ -1,0 +1,15 @@
+# Ecommerce purchases by Transaction ID (invented export)
+Transaction ID,Purchases,Purchase revenue
+FT1031,1,30.50
+FT1032,1,30.50
+FT1033,1,30.50
+FT1034,1,30.50
+FT1035,1,30.50
+FT1037,1,30.50
+FT1038,1,30.50
+FT1039,1,30.50
+FT1040,1,30.50
+FT1042,1,30.50
+FT1042,1,30.50
+TEST-001,1,1.00
+(not set),2,61.00

@@ -1,0 +1,16 @@
+{
+  "client_id": "555.111",
+  "events": [
+    {
+      "name": "purchase",
+      "params": {
+        "session_id": "1730000000",
+        "engagement_time_msec": 100,
+        "transaction_id": "FT1042",
+        "value": 38.5,
+        "currency": "EUR",
+        "shipping_tier": "standard"
+      }
+    }
+  ]
+}

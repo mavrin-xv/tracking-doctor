@@ -1,0 +1,6 @@
+[
+  {"step": "landing", "goto": "landing.html?gclid=EXAMPLE_GCLID&utm_source=google&utm_medium=cpc"},
+  {"step": "consent-reject", "click": "#reject"},
+  {"step": "add-to-cart", "click": "#add"},
+  {"step": "checkout", "click": "#checkout"}
+]

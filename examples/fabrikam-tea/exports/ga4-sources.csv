@@ -1,0 +1,17 @@
+# Traffic acquisition: Session source / medium (invented export)
+# Start date: 20261101, End date: 20261130
+Session source / medium,Sessions,Key events
+google / cpc,4120,61
+google / organic,3880,44
+(direct) / (none),2210,30
+facebook / cpc,1340,12
+Facebook / cpc,410,3
+instagram / story,620,2
+newsletter / Email-Weekly,530,9
+paypal.com / referral,190,41
+checkout.stripe.com / referral,85,17
+fabrikam-tea.example / referral,240,6
+blog.fabrikam-tea.example / referral,95,1
+(not set) / (not set),760,5
+partner-site.example / referral,150,4
+Total,14630,235

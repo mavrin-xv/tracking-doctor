@@ -1,0 +1,15 @@
+step,vendor,event,required,count
+landing,ga4,page_view,,1
+landing,meta,PageView,,1
+consent-accept,posthog,$pageview,,1
+add-to-cart,ga4,add_to_cart,value;currency,1
+add-to-cart,meta,AddToCart,value;currency,1
+add-to-cart,posthog,add_to_cart,value,1
+checkout,ga4,purchase,transaction_id;value;currency,1
+checkout,meta,Purchase,value;currency;eid,1
+checkout,gads,conversion,oid;value;currency_code,1
+checkout,posthog,order_completed,order_id;value;currency,1
+thanks-reload,ga4,purchase,,0
+thanks-reload,meta,Purchase,,0
+thanks-reload,gads,conversion,,0
+thanks-reload,posthog,order_completed,,0

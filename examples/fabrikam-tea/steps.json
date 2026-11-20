@@ -1,0 +1,7 @@
+[
+  {"step": "landing", "goto": "landing.html?gclid=EXAMPLE_GCLID&utm_source=google&utm_medium=cpc&utm_campaign=spring_tea"},
+  {"step": "consent-accept", "click": "#accept"},
+  {"step": "add-to-cart", "click": "#add"},
+  {"step": "checkout", "click": "#checkout"},
+  {"step": "thanks-reload", "reload": true}
+]

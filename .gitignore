@@ -1,0 +1,9 @@
+# captures, HAR files and credentials never go in the repo
+.env
+.env.*
+captures/
+*.har
+!examples/**/*.har
+__pycache__/
+*.pyc
+.DS_Store

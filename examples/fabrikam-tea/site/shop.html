@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><title>Fabrikam Tea shop (invented)</title>
+<script src="fake-tags.js"></script></head>
+<body>
+<h1>Fabrikam Tea</h1>
+<div id="banner">We use cookies. <button id="accept" onclick="tags.grant()">Accept</button>
+<button id="reject" onclick="tags.deny()">Reject</button></div>
+<p>Sencha, 100 g, 12.50 EUR <button id="add" onclick="tags.addToCart()">Add to cart</button></p>
+<button id="checkout" onclick="location.href='thanks.html?order=FT1042&email=jane%40example.com'">Pay</button>
+<script>tags.pageView();</script>
+</body></html>
